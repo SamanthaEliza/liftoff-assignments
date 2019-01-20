@@ -7,17 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Include overview here:
 A web site that acts as a random generator to help decide where to travel too. It would give suggestions based on a few questions to narrow down choices. 
 
 ### Features
-Include Features here
+Include Features here:
 Features would include questions to help narrow down places for the user, fun facts about the country the user picks and a map. 
 
 ### Technologies
-Include Technologies here
+Include Technologies here:
 Technologies would include Java and Mapping  API
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Include what you will need to learn here:
 In order to properly implement the project I would have to learn a mapping API and more details about CSS
